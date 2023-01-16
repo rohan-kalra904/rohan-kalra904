@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohan-kalra904
-- 👀 I’m interested in ...Programming, Data Science and almost every other thing
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in competitive programming, cryptography and  blockchain
+- 🌱 I’m currently learning post quantum cryptography and basics of blockchain
+- 💞️ I’m looking to collaborate on any django or react based project 
 - 📫 How to reach me ...
 
 <!---
